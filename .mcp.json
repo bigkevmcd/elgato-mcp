@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "elgato-local": {
+      "command": "elgato-mcp",
+      "args": []
+    }
+  }
+}
+

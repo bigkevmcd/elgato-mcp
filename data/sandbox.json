@@ -1,0 +1,18 @@
+{
+  "lights": [
+    {
+      "name": "Desk",
+      "product": "Elgato Key Light Air",
+      "on": true,
+      "brightness": 45,
+      "temperature_kelvin": 4000
+    },
+    {
+      "name": "Fill",
+      "product": "Elgato Key Light",
+      "on": false,
+      "brightness": 25,
+      "temperature_kelvin": 5600
+    }
+  ]
+}
